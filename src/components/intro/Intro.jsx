@@ -27,6 +27,13 @@ export default function Intro() {
           <h3>
             Freelance <span ref={textRef}></span>
           </h3>
+          <div className='stackList'>
+            <h4>
+              <hr className='line1'></hr>
+              HTML/CSS | Bootstrap | JavaScript | React | NodeJS | Express |
+              MongoDB
+            </h4>
+          </div>
         </div>
         <a href='#portfolio'>
           <img src='assets/down.png' alt='' />
